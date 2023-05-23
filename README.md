@@ -1,4 +1,4 @@
-# Amartizaje
+# IbaiLasa.github.io
 
 # Abre en la terminal la carpeta de Amartizaje
 >cd Amartizaje
